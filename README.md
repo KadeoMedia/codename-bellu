@@ -4,5 +4,5 @@ A repository reference to a software name called "CodeName Bellu" developed by K
 
 ## Language
 
-[Română](../README.ro.md)
-[English](../README.md)
+[Română](/README.ro.md)
+[English](/README.md)
