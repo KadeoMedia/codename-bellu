@@ -4,5 +4,5 @@ O referință către un program cu numele de cod "CodeName Bellu" dezvoltat de K
 
 ## Limbă
 
-[Română](../README.ro.md)
-[English](../README.md)
+[Română](/README.ro.md)
+[English](/README.md)
